@@ -1,6 +1,4 @@
-1️⃣ Copy This Entire README
 
-Create or edit README.md in your GitHub repository and paste everything below.
 
 # ✋ Air Writing & Gesture Recognition System
 
